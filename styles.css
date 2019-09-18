@@ -39,7 +39,6 @@ button {
 }
 .header__phone {
   margin: 0 82px;
-  transition: 0.5s;
 }
 .header__action {
   border-bottom: 1px dashed white;
@@ -65,7 +64,6 @@ button {
   padding: 0;
   display: flex;
   justify-content: center;
-  transition: 0.5s;
 }
 .nav__item {
   margin: 0 23px;
